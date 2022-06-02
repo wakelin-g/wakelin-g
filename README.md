@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @wakelin-g
-- 👀 I’m interested in bioinformatics, especially single-cell genomics.
-- 🌱 I’m currently learning mathematical and statistical methods for modeling single-cell data.
-- 📫 gwakelin@upei.ca
+- UPEI '22; MSc student in Johnston Lab @UPEI
 
 <!---
 wakelin-g/wakelin-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
