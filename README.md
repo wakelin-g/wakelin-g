@@ -1,4 +1,4 @@
-- UPEI '22; MSc student in Johnston Lab @UPEI
+- UPEI '22; Johnston Lab @UPEI
 
 <!---
 wakelin-g/wakelin-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
